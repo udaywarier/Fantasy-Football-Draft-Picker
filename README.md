@@ -1,1 +1,1 @@
-# Fantasy-Football-Draft-Picker
+This application grabs fantasy football data and raw statistics from previous NFL seasons to make predictions about the upcoming season and build a fantasy draft team. 
