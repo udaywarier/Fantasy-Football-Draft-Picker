@@ -1,0 +1,19 @@
+{
+  "name": "fantasy-football-draft-picker",
+  "version": "1.0.0",
+  "description": "This application grabs fantasy football data and raw statistics from previous NFL seasons to make predictions about the upcoming season and build a fantasy draft team.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaywarier/Fantasy-Football-Draft-Picker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udaywarier/Fantasy-Football-Draft-Picker/issues"
+  },
+  "homepage": "https://github.com/udaywarier/Fantasy-Football-Draft-Picker#readme"
+}
